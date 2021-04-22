@@ -1,4 +1,5 @@
 # Projeto Vitrine de trabalhos - Future Ninjas    
+Aplicação de estudo do react
 https://github.com/marcosmaiadev/react-future-ninjas
 
 
