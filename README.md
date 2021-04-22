@@ -3,7 +3,7 @@ https://github.com/marcosmaiadev/react-future-ninjas
 
 
 ## Link do surge:  
-
+future-ninjas-jobs.surge.sh
 
 ## Imagem:  
 ![Banner_GITHUB_Site (1)](https://user-images.githubusercontent.com/52434685/113456077-a67c7b80-93e2-11eb-8233-a74953cf4a81.png)
@@ -15,9 +15,11 @@ Link da API: https://documenter.getpostman.com/view/9133542/TVzVgvQL
 __________________________________________________________________________________________________________________________________________________________________
 
 #### Primeiros passos
-1. Acesse nosso site em: http://gleaming-measure.surge.sh/ ;
+1. Acesse nosso site em: [future-ninjas-jobs.surge.sh](future-ninjas-jobs.surge.sh) ;
 2. Crie o anúncio com o serviço prestado para que possam resolver o seu problema
-3. Escolha o anúncio que você deseja resolver o problema.
+3. Escolha o anúncio que você deseja resolver o problema.   
+
+[//]:https://github.com/future4code/cruz-marketplace2/blob/master/gif_marketplace.gif
 
 __________________________________________________________________________________________________________________________________________________________________
 
