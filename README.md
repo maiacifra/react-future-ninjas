@@ -5,8 +5,9 @@ https://github.com/marcosmaiadev/react-future-ninjas
 ## Link do surge:  
 future-ninjas-jobs.surge.sh
 
-## Imagem:  
+## Imagens:  
 ![Banner_GITHUB_Site (1)](https://user-images.githubusercontent.com/52434685/113456077-a67c7b80-93e2-11eb-8233-a74953cf4a81.png)
+![get-ninjas-job](https://user-images.githubusercontent.com/30267119/115738580-8d247a80-a363-11eb-8bdf-3dcbafa6f9f8.PNG)
 
 
 ### API Future Ninjas 
